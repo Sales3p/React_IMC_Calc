@@ -1,7 +1,7 @@
 import { data } from "./data/data"
 import { useState } from 'react';
 import ImcCalc from './components/ImcCalc'
-import ImcTable from "./components/imcTable";
+import ImcTable from "./components/ImcTable";
 import './App.css'
 
 function App() {
